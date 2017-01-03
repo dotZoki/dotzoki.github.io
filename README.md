@@ -1,3 +1,3 @@
 # dotzoki.github.io
 
-### It's my CV
+### It's my CV.
